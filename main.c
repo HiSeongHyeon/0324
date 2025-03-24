@@ -2,7 +2,7 @@
 
 void say()
 {
-    printf("say ha E");
+    printf("say hi");
     return 0;
 }
 
